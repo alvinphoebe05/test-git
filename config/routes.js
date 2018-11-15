@@ -8,7 +8,7 @@
  * https://sailsjs.com/anatomy/config/routes-js
  * Alvin Phoebe Artemis Valdez Artemis Valdez Valdez
  * tEST 123456 password test Testing lang ako ikaw
- * tayo asdsad aas ada sd 
+ * tayo asdsad aas ada sd Testing Lang
  */
 
 module.exports.routes = {
