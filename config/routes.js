@@ -7,7 +7,7 @@
  * For more information on configuring custom routes, check out:
  * https://sailsjs.com/anatomy/config/routes-js
  * Alvin Phoebe Artemis Valdez Artemis Valdez Valdez
- * tEST 123456
+ * tEST 123456 password
  */
 
 module.exports.routes = {
