@@ -6,7 +6,7 @@
  *
  * For more information on configuring custom routes, check out:
  * https://sailsjs.com/anatomy/config/routes-js
- * Alvin Phoebe Artemis Valdez
+ * Alvin Phoebe Artemis Valdez Artemis Valdez Valdez
  */
 
 module.exports.routes = {
